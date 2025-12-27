@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+data/raw/
+*.xlsx
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
